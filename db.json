@@ -1,0 +1,21 @@
+{
+  "message":"success",
+  "attendance": [
+    {
+      "className":"Cloud Computing",
+      "totalLectures":30,
+      "present":23,
+      "sick":1,
+      "absent":6,
+      "late":0   	
+    },
+    {
+      "className":"Algorithms",
+      "totalLectures":24,
+      "present":10,
+      "sick":4,
+      "absent":10,
+      "late":0    
+    }
+  ]
+}
